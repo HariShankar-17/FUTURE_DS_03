@@ -96,10 +96,13 @@ The dashboard includes a **Channel filter**, allowing users to explore funnel pe
 ```
 FUTURE_DS_03
 │
-├── dashboard
+├── Dashboard
 │   └── marketing-funnel-performance-dashboard.png
 │
-├── marketing_funnel_dashboard.pbix
+├── Dataset
+│   └── dataset.csv
+│
+├── Task3.pbix
 │
 └── README.md
 ```
