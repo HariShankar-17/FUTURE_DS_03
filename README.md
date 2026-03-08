@@ -26,7 +26,7 @@ Analyze marketing funnel data to identify:
 
 ## 📈 Dashboard Overview
 
-![Marketing Funnel Dashboard](dashboard/marketing-funnel-performance-dashboard.png)
+![Marketing Funnel Dashboard](Dashboard/marketing-funnel-performance-dashboard.png)
 
 The dashboard contains the following key components:
 
