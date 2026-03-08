@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # FUTURE_DS_03
 ## Task 3 – Marketing Funnel & Conversion Performance Analysis
 
@@ -94,17 +93,16 @@ The dashboard includes a **Channel filter**, allowing users to explore funnel pe
 
 ## 📂 Repository Structure
 
+```
 FUTURE_DS_03
 │
 ├── dashboard
-│ └── marketing-funnel-performance-dashboard.png
+│   └── marketing-funnel-performance-dashboard.png
 │
 ├── marketing_funnel_dashboard.pbix
 │
 └── README.md
-
-
----
+```
 
 ## 📌 Conclusion
 This project demonstrates how marketing funnel data can be analyzed to understand **customer behavior, identify conversion bottlenecks, and improve marketing strategy** through data-driven insights.
