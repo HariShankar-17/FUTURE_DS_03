@@ -1,4 +1,3 @@
-# FUTURE_DS_03
 ## Task 3 – Marketing Funnel & Conversion Performance Analysis
 
 ### 📊 Project Overview
